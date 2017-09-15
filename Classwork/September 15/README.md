@@ -12,7 +12,7 @@ None
 
 ## Resources 
 - Code: `RBG-LED_Rainbow_Variartion.ino`
-- Working Video:
+- Working Video: `RBG-LED.mov` `RBG-LED_Rainbow_Variation.mov`
 - Lesson: [Lesson 3](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds)
 
 
@@ -29,5 +29,5 @@ I trouble shot my electronics for a long time and realized finally once class st
 
 ## Resources 
 - Code: `Shift_Register.ino`
-- Working Video: 
+- Working Video: `Shift_Register.mov`
 - Lesson: [Lesson 4](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds)
