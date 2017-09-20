@@ -1,7 +1,7 @@
 # UltraSonic Distance Senor and LCD Display
 
 ## Description
-I wire the distance sensor and LCD Display so that you get a live time display of the distance the Ultrasonic sensor is reading.
+I wired the distance sensor and LCD Display so that you get a live time display of the distance the Ultrasonic sensor is reading.
 
 ## Creative Add-on
 None
