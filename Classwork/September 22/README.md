@@ -11,5 +11,5 @@ The LED arrows are not very bright because I wired them all to the actual arduin
 
 ## Resources 
 - Code: `DC_MOTOR_LEDSIGNALS` `DC_No_Modifications`
-- Working Video:
+- Working Video:`DC_Motor_Arrows`
 - Lesson: [Lesson 15](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing)
