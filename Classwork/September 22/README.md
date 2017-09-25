@@ -10,6 +10,6 @@ I added 2 LED arrows which lit up to show which direction the motor was turning.
 The LED arrows are not very bright because I wired them all to the actual arduino. I tried using the shift register, but wwas having trouble controling which lit up when and also powering them all from the shift register, so I decided to just go with the simpiler method due to time constraints aswell.
 
 ## Resources 
-- Code: `DC_MOTOR_LEDSIGNALS` `DC_No_Modifications`
-- Working Video:
+- Code: `DC_MOTOR_LEDSIGNALS.ino` `DC_No_Modifications.ino`
+- Working Video:`DC_Motor_Arrows.mob`
 - Lesson: [Lesson 15](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing)
