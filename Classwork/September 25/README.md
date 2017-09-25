@@ -11,5 +11,5 @@ I was having trouble integrating the LED display and the potentiometer value. I 
 
 ## Resources 
 - Code: `Servo_Sweep.ino` `Servo_Knob.ino`
-- Working Video: `Servo_Knob_LED_Levels`
+- Working Video: `Servo_Knob_LED_Levels.mov`
 - Lesson: [Lesson 14](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/overview)
