@@ -10,6 +10,6 @@ I added an LED scale that displays the level the potentiometer is turned all the
 I was having trouble integrating the LED display and the potentiometer value. I eventually figured out it was becasue I cannot do a due comparison, I have to do 2 indepentand comparisons and and && inbetween them.
 
 ## Resources 
-- Code: `Servo_Sweep.ino` `Servo_Knob.ino`
+- Code: `Servo_Sweep.ino` `Servo_Knob.ino` `Servo_Knob_LED_Levels.ino`
 - Working Video: `Servo_Knob_LED_Levels.mov`
 - Lesson: [Lesson 14](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/overview)
